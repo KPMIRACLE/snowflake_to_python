@@ -1,3 +1,4 @@
+#This code is connect snowflake to native Python for basic operations
 import snowflake.connector as SF
 connection = SF.connect(user ='Kiranmiracle7',
                         password = 'Thankyou@2023',
